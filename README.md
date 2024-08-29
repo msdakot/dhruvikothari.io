@@ -1,2 +1,5 @@
-# dhruvikothari.io
-DS/DE portfolio
+# Data Science Portfolio
+
+This section contains portfolio of data science projects completed by me for academic, self learning, and hobby purposes.
+
+
